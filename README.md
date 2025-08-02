@@ -1,4 +1,5 @@
 # Google Analytics MCP Server (Experimental)
+[![smithery badge](https://smithery.ai/badge/$server_id)](https://smithery.ai/proxy-info/$server_id)
 
 This repo contains the source code for running a local
 [MCP](https://modelcontextprotocol.io) server that interacts with APIs for
